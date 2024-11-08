@@ -2,7 +2,6 @@
   "name": "gym_exercises",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -17,7 +16,8 @@
     "react-loader-spinner": "^5.3.4",
     "react-router-dom": "^6.28.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "."
   },
   "scripts": {
     "start": "react-scripts start",
